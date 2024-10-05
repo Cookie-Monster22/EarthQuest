@@ -1,3 +1,5 @@
+Project structure Outline:
+
 EarthQuest/
     ├── index.html       (Home/Invitation Page)
     ├── transport.html   (Transportation Page)
