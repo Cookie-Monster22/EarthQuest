@@ -6,3 +6,4 @@ EarthQuest/
     ├── result.html      (Result Page)
     ├── styles.css       (Styles for the entire website)
     └── app.js           (JavaScript for handling logic)
+muskan's change
